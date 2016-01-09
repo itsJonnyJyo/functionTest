@@ -1,8 +1,6 @@
 /*
-**Name: Jonathan Jensen
-**SSID: G03567847
-**CRN: 16692
-**Assignment: Functions and Relations Application Problem !
+** Copyright (c) Jonathan Jensen 2014
+** function tester
 **/
 
 #include <iostream>
