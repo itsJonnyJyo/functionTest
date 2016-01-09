@@ -1,0 +1,7 @@
+Enter first set please use only lower case letters with no blanks or other characters(ie. 'abcdefg'): 
+You may now enter set #2. Keep in mind, improper input may yield unexpected results: 
+Finally, enter a subset of the cartesian product produced when crossing the first two sets. Please do not input any 
+ brackets, commas, or spaces. (ie. if the proper notation is '{(a,b),(c,d),(e,f)}', enter 'abcdef':
+C is a function
+C is injective
+C is surjective
